@@ -5,12 +5,12 @@ Formatted list:
 - B
 - C
 
-Text in **bold** 
+Text in **bold** for emphasis.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYwMTkzOTgsLTg5MzE5MDQ5OSw0Mz
-gxNDY0MTgsLTIwMDY5MjE4MTgsLTEwMzAyNjExOTEsMjAzMDc4
-ODEzOSwyMzk0MjQ2MzYsLTE5NDQwMjI0NSwtMTM5ODc1ODQ4Ny
-wxMzcwNzM3MDQ2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTYyNTcyNTY4MywtODkzMTkwNDk5LDQzOD
+E0NjQxOCwtMjAwNjkyMTgxOCwtMTAzMDI2MTE5MSwyMDMwNzg4
+MTM5LDIzOTQyNDYzNiwtMTk0NDAyMjQ1LC0xMzk4NzU4NDg3LD
+EzNzA3MzcwNDYsNzMwOTk4MTE2XX0=
 -->
