@@ -2,8 +2,10 @@
 
 Your NFC stickers will arrive in the post within 48 hours of ordering.
 
-## Deciding what to adhere them to
-You may wish to stick tags directly onto walls or assets. Alternatively, stick the sticker on to pre-printed sheets of paper that will provide context for the tag.
+## Sticking tags
+You may wish to stick the sticker on to pre-printed sheets of paper/stickers that will provide context for the tag.
+
+Alternatively, stick tags directly onto walls or assets. Alternatively, 
 
 ## Distributing tags
 Ideally, each tag will be located:
@@ -14,5 +16,5 @@ Ideally, each tag will be located:
 Once you have stuck it, tap it.
 If a Tag Purple is tagged that hasn't been registered to a location yet, then a tap will prompt you the adminstrator to assign a location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUxMjQ3LC00NDM3NDQwNjBdfQ==
+eyJoaXN0b3J5IjpbLTgyNzYxMDQ5LC00NDM3NDQwNjBdfQ==
 -->
