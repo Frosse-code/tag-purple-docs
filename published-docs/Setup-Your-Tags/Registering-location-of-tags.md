@@ -7,7 +7,7 @@ You may wish to stick the sticker on to pre-printed sheets of paper/stickers tha
 
 Alternatively, stick tags directly onto walls or assets.
 
-Tags should be difficult to remove and treated as a perm
+Tags should be difficult to remove and treated as a long-term fixture to represent the location. But they can easily be replaced in future.
 
 ## Distributing tags
 Ideally, each tag will be located:
@@ -18,5 +18,5 @@ Ideally, each tag will be located:
 Once you have stuck it, tap it.
 If a Tag Purple is tagged that hasn't been registered to a location yet, then a tap will prompt you the adminstrator to assign a location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTEyNzg1MCwtNDQzNzQ0MDYwXX0=
+eyJoaXN0b3J5IjpbMjA5NTQ4OTUyOCwtNDQzNzQ0MDYwXX0=
 -->
