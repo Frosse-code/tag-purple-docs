@@ -10,15 +10,17 @@ Alternatively, stick tags directly onto walls or assets.
 Tags should be difficult to remove and treated as a long-term fixture to represent the location. But they can easily be replaced in future.
 
 ## Distributing tags
+
 Ideally, each tag will be located:
 - Where it is easy to see and tap with a phone
 - On a surface it adheres well to (avoiding metal)
 - Within mobile/wifi data coverage
 
-## 
-Once you have stuck it, tap it.
-If a Tag Purple is tagged that hasn't been registered to a location yet, then a tap will prompt you the adminstrator to assign a location.
+## Registering tags
+Once you have stuck it, tap it!
+
+If a tag is tagged that hasn't been registered to a location yet, then a tap will prompt you the adminsitrator to assign a location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzY3NTY3NiwyMDk1NDg5NTI4LC00ND
-M3NDQwNjBdfQ==
+eyJoaXN0b3J5IjpbLTE3NDEyMzk5MTQsMjA5NTQ4OTUyOCwtND
+QzNzQ0MDYwXX0=
 -->
