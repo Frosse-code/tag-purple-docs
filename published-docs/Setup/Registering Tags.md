@@ -2,7 +2,7 @@
 
 Your tags will arrive in the post within 48 hours of ordering. Each tag is a circular sticker.
 
-## Sticking tags
+## Sticking tags down
 You may wish to stick the sticker on to pre-printed sheets of paper/stickers that will provide context for the tag to the end user.
 
 Alternatively, stick tags directly onto walls or assets.
@@ -22,5 +22,5 @@ Once you have stuck it, tap it!
 
 The unregistered tag will redirect you to the admin portal where you can associate the tag with a new or existing location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MTk1NjQ3XX0=
+eyJoaXN0b3J5IjpbLTk3NzU2ODE3N119
 -->
