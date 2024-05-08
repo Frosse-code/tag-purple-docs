@@ -20,8 +20,8 @@ Ideally, each tag will be located:
 ## Registering tags
 Once you have stuck it, tap it!
 
-If a tag is tagged that hasn't been registered to a location yet, then a tap will prompt you the adminsitrator to assign a location.
+The unregistered tag is tagged that hasn't been registered to a location yet, then a tap will redirect 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODQxNDEzMywyMDk1NDg5NTI4LC00ND
-M3NDQwNjBdfQ==
+eyJoaXN0b3J5IjpbLTE5NDM3MzA5NjQsMTE3ODQxNDEzMywyMD
+k1NDg5NTI4LC00NDM3NDQwNjBdfQ==
 -->
