@@ -10,7 +10,7 @@ Alternatively, stick tags directly onto walls or assets.
 Tags should be difficult to remove and treated as a long-term fixture to represent the location. But they can easily be replaced in future.
 
 ## Distributing tags
-
+A single tag in each location will often be sufficient. But more than one tag can be associated with a single location to provide resiliency or concurrent usa
 Ideally, each tag will be located:
 - Where it is easy to see and tap with a phone
 - On a surface it adheres well to (avoiding metal)
@@ -21,6 +21,6 @@ Once you have stuck it, tap it!
 
 If a tag is tagged that hasn't been registered to a location yet, then a tap will prompt you the adminsitrator to assign a location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDEyMzk5MTQsMjA5NTQ4OTUyOCwtND
-QzNzQ0MDYwXX0=
+eyJoaXN0b3J5IjpbMzI2NDEwNzA5LDIwOTU0ODk1MjgsLTQ0Mz
+c0NDA2MF19
 -->
