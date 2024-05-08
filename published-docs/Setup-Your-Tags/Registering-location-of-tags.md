@@ -15,8 +15,10 @@ Ideally, each tag will be located:
 - On a surface it adheres well to (avoiding metal)
 - Within mobile/wifi data coverage
 
+## 
 Once you have stuck it, tap it.
 If a Tag Purple is tagged that hasn't been registered to a location yet, then a tap will prompt you the adminstrator to assign a location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTQ4OTUyOCwtNDQzNzQ0MDYwXX0=
+eyJoaXN0b3J5IjpbLTQ2NzY3NTY3NiwyMDk1NDg5NTI4LC00ND
+M3NDQwNjBdfQ==
 -->
