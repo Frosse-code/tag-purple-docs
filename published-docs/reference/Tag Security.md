@@ -11,7 +11,8 @@ Therefore, in-as-much as SMS is secure and access to that phone isn't shared, st
 ### Where - Location
 Assuming confidence in the tags inability to move location, the nature of the tag's security features (described above) give confidence that the TagPurple tag was really tapped at the registered location.
 ### When - Time
-
+Ordinarily, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUzMzkzOTcsOTc5OTU2Mzc4XX0=
+eyJoaXN0b3J5IjpbLTE5NDYwOTU4MzIsLTEwMTUzMzkzOTcsOT
+c5OTU2Mzc4XX0=
 -->
