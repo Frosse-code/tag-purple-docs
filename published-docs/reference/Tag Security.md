@@ -4,14 +4,14 @@ Each time a tag is tapped, a counter is incremented and a cryptographic signatur
 In this way, every tap can be verified as a unique real tap on a known TagPurple tag, registered by you to one of your locations.
 
 ## Confidence in the data
-TagPurple provides an audit trail of **who** was **where** **when** a
+TagPurple provides an audit trail of **who** was **where** **when**.
 ### Who - The Tapper
 Before any user can tap-in, they must authenticate by following a link sent to them in an SMS message. This authentication process generates a session that will be usable for 30 days, before they must repeat the authorisation. In this way, the phone number is used as the unique identifier for the tapper.
-Therefore, in-as-much as SMS is secure and access to that phone isn't shared, strong evidence for tapper identity is .
+Therefore, in-as-much as SMS is secure and access to that phone isn't shared, strong evidence for tapper identity is provided by TagPurple.
 ### Where - Location
-Assuming confidence in the tags inability to move location, the nature of the tag's security features gives confidence that the TagPurple tag was really tapped at the registered location.
+Assuming confidence in the tags inability to move location, the nature of the tag's security features (described above) give confidence that the TagPurple tag was really tapped at the registered location.
 ### When - Time
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODAxMjA4MCw5Nzk5NTYzNzhdfQ==
+eyJoaXN0b3J5IjpbLTEwMTUzMzkzOTcsOTc5OTU2Mzc4XX0=
 -->
