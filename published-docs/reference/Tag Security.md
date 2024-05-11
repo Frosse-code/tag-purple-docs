@@ -1,4 +1,5 @@
-TagPurple tags are a 
+TagPurple tags are a type of NFC tag that have a clever security feature.
+Each time a tag is tapped, a counter is incremented
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTM1MDQwXX0=
+eyJoaXN0b3J5IjpbLTE1NDQ4NTgwMDddfQ==
 -->
