@@ -4,8 +4,9 @@ Each time a tag is tapped, a counter is incremented and a cryptographic signatur
 In this way, every tap can be verified as a unique real tap on a known TagPurple tag, registered by you to one of your locations.
 
 ## Confidence in the data
-### Kic
-Assuming confidence in the tags inability to move location, this security gives reasonable confidence that the 
+### Location
+Assuming confidence in the tags inability to move location, this security gives reasonable confidence that the TagPurple tag was really tapped at the registered location.
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjEyOTk5NF19
+eyJoaXN0b3J5IjpbLTczMzg0MjQ4XX0=
 -->
