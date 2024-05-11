@@ -11,8 +11,8 @@ Therefore, in-as-much as SMS is secure and access to that phone isn't shared, st
 ### Where - Location
 Assuming confidence in the tags inability to move location, the nature of the tag's security features (described above) give confidence that the TagPurple tag was really tapped at the registered location.
 ### When - Time
-Ordinarily, as soon as a tapper taps, the request hits TagPurple servers and confirms the tap-in and the date and time is recorded. 
+Ordinarily, as soon as a tapper taps, the request hits TagPurple servers and confirms the tap-in and the date and time is recorded. Because the counter is incremented predictable, and because it is cryptographically verified, we can have 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjMxMzM4MCwtMTAxNTMzOTM5Nyw5Nz
-k5NTYzNzhdfQ==
+eyJoaXN0b3J5IjpbNjg4MDY1NjMzLC0xMDE1MzM5Mzk3LDk3OT
+k1NjM3OF19
 -->
