@@ -6,7 +6,8 @@ In this way, every tap can be verified as a unique real tap on a known TagPurple
 ## Confidence in the data
 ### Location
 Assuming confidence in the tags inability to move location, this security gives reasonable confidence that the TagPurple tag was really tapped at the registered location.
-### 
+### Tapper
+Before any user can tap-in, they must authenticate by following a link sent to them in an SMS message. They will need to repeat this exercise
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzg0MjQ4XX0=
+eyJoaXN0b3J5IjpbMzQzNTYyMTk5XX0=
 -->
