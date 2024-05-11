@@ -7,7 +7,8 @@ In this way, every tap can be verified as a unique real tap on a known TagPurple
 ### Location
 Assuming confidence in the tags inability to move location, this security gives reasonable confidence that the TagPurple tag was really tapped at the registered location.
 ### Tapper
-Before any user can tap-in, they must authenticate by following a link sent to them in an SMS message. This authentication process generates a session that will be usable for 30 days, before they must repeat the authorisation. In this way, the phone number as the unique identifier for the tapper, 
+Before any user can tap-in, they must authenticate by following a link sent to them in an SMS message. This authentication process generates a session that will be usable for 30 days, before they must repeat the authorisation. In this way, the phone number is used as the unique identifier for the tapper.
+Therefore, in-as
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2MDQyMDgxLDk3OTk1NjM3OF19
+eyJoaXN0b3J5IjpbLTc0MjMyNzE1Niw5Nzk5NTYzNzhdfQ==
 -->
