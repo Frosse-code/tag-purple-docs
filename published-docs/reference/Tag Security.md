@@ -13,8 +13,8 @@ Assuming confidence in the tags inability to move location, the nature of the ta
 ### When - Time
 Ordinarily, as soon as a tapper taps, the request hits TagPurple servers and confirms the tap-in and the date and time is recorded. Because the counter is incremented predictable, and because it is cryptographically verified, we can have high confidence that an individual tap happened after the previous tap and before the subsequent one.
 When a phone taps while offline, it will make its best effort to registered that tap when it comes back online, registering the time that it was originally tapped.
-However, the precise timing could be manipulated by deliberately manipulating the time 
+However, in theory, the precise timing could be manipulated by deliberately being offline and then attempting to report an incorrect time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTIzODE3NCwtMTAxNTMzOTM5Nyw5Nz
+eyJoaXN0b3J5IjpbMjA1MTQ2NjM3MiwtMTAxNTMzOTM5Nyw5Nz
 k5NTYzNzhdfQ==
 -->
