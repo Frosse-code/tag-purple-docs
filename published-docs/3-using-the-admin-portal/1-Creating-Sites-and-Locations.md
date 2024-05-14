@@ -14,8 +14,6 @@
 
 *Italic Text*
 
-~~Strikethrough Text~~
-
 ---
 
 ## Lists
@@ -61,12 +59,7 @@
 ### Inline Code
 
 Use backticks like `this` for inline code.
-
-### Code Blocks
-
-```python
-def hello_world():
-    print("Hello, World!")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM1NDYzNzRdfQ==
+eyJoaXN0b3J5IjpbLTE0MjA2NDE1MzgsLTE0NDM1NDYzNzRdfQ
+==
 -->
