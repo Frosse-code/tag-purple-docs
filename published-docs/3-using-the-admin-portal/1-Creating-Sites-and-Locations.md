@@ -6,8 +6,6 @@
 ### Subheadings
 
 #### Subsubheadings!
-
-paulf was here so was Jack H
 ---
 
 ## Text Formatting
@@ -70,5 +68,5 @@ Use backticks like `this` for inline code.
 def hello_world():
     print("Hello, World!")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMjI3NTMxXX0=
+eyJoaXN0b3J5IjpbLTE0NDM1NDYzNzRdfQ==
 -->
