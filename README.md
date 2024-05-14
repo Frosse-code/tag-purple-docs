@@ -2,8 +2,8 @@
 
 Documentation for the Tag Purple application and services.
 
-These documents are published to https://tagpurple.com/docs automatically!
+These documents are published to https://tagpurple.com/docs automatically
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDA4MzIwMSwxNDAwMDgzMjAxLDY3NT
-E1NTIyMCwxMDA3NTMzMTQwXX0=
+eyJoaXN0b3J5IjpbMTQxODAyODA1MCwxNDAwMDgzMjAxLDE0MD
+AwODMyMDEsNjc1MTU1MjIwLDEwMDc1MzMxNDBdfQ==
 -->
