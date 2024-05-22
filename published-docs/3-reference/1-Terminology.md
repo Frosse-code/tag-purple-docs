@@ -1,7 +1,7 @@
 | Term | Meaning |
 |--------|------------|
 | Location | The physical location of tags. |
-| Portal| The administration website at admin.tagpurple.app for initial setup and ongoing configuration. |
+| Portal| The administration website at admin.tagpurple.app for initial setup, ongoing configuration, monitoring and reporting on tag usage. |
 | Site     | The physical site of a collection of tags. But can be used to group tag locations in any way wish. |
 | Tapper | User who taps the tag with the phone to record their presence at a location at a given time. |
 | Tap | The act of holding an NFC-enable phone to a tag. |
@@ -9,5 +9,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjQ3NjY2MSwtMTIzMzE2OTE4OF19
+eyJoaXN0b3J5IjpbMTYzNTQwMzY0OSwtMTIzMzE2OTE4OF19
 -->
