@@ -1,6 +1,6 @@
 | Term | Meaning |
 |--------|------------|
-| Counter | The integer incremented automatically every time a tag is tapped. You brand n
+| Counter | The integer incremented automatically every time a tag is tapped. Your new tags may have counters greater than 1 on first scan, due to our setup and testing processes. The number increments from 1 through to 
 | Location | The physical location of tags. |
 | Portal| The administration website at admin.tagpurple.app for initial setup, ongoing configuration, monitoring and reporting on tag usage. |
 | Site     | The physical site of a collection of tags. But can be used to group tag locations in any way wish. |
@@ -10,6 +10,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTIwMjkxOCwxNjM1NDAzNjQ5LC0xMj
-MzMTY5MTg4XX0=
+eyJoaXN0b3J5IjpbLTE0MTk1ODE4MjEsMTYzNTQwMzY0OSwtMT
+IzMzE2OTE4OF19
 -->
