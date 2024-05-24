@@ -5,13 +5,12 @@
 | Portal| The administration website at admin.tagpurple.app for initial setup, ongoing configuration, monitoring and reporting on tag usage. |
 | Share | The grant to another organisation to view the record of taps - who tapped where and when. Tag owners create a share at a site level. |
 | Site     | The physical site of a collection of tags. But can be used to group tag locations in any way wish. Sites is the level where sharing is set. |
-location at a given time. |
 | Tap | The act of holding an NFC-enable phone to a tag. |
-| Tapper | User who taps the tag with the phone to record their presence at a | | Tap-in | Tap, and successfully record tapper's presence at location.  |
+| Tapper | User who taps the tag with the phone to record their presence at a location at a given time. || Tap-in | Tap, and successfully record tapper's presence at location.  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA1MTQwNzMsMTk1NDcyMTg2MywxOT
-YzMDI3NDA3LC0xNDE5NTgxODIxLDE2MzU0MDM2NDksLTEyMzMx
-NjkxODhdfQ==
+eyJoaXN0b3J5IjpbLTIwMDkxODU0MzUsLTE3ODA1MTQwNzMsMT
+k1NDcyMTg2MywxOTYzMDI3NDA3LC0xNDE5NTgxODIxLDE2MzU0
+MDM2NDksLTEyMzMxNjkxODhdfQ==
 -->
