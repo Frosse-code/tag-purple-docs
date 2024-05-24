@@ -1,6 +1,6 @@
 | Term | Meaning |
 |--------|------------|
-| Counter | The integer incremented automatically every time a tag is tapped. Your new tags may have counters greater than 1 on first scan, due to our setup and testing processes. The number increments from 1 to 16,777,215 - enough to tap every minute for 31 years. |
+| Counter | The integer incremented automatically every time a tag is tapped. This counter is held in the tag and incremented by the tag itself. Your new tags may have counters greater than 1 on first scan, due to our setup and testing processes. The number increments from 1 to 16,777,215 - enough to tap every minute for 31 years. |
 | Location | The physical location of tags. |
 | Portal| The administration website at admin.tagpurple.app for initial setup, ongoing configuration, monitoring and reporting on tag usage. |
 | Site     | The physical site of a collection of tags. But can be used to group tag locations in any way wish. |
@@ -10,6 +10,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDg3NDgyMSwxOTYzMDI3NDA3LC0xND
-E5NTgxODIxLDE2MzU0MDM2NDksLTEyMzMxNjkxODhdfQ==
+eyJoaXN0b3J5IjpbLTE0MTUzMjU5MDQsMTk2MzAyNzQwNywtMT
+QxOTU4MTgyMSwxNjM1NDAzNjQ5LC0xMjMzMTY5MTg4XX0=
 -->
