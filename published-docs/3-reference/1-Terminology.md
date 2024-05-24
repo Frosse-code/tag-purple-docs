@@ -1,5 +1,6 @@
 | Term | Meaning |
 |--------|------------|
+| Counter | The integer incremented automatically every time a tag is tapped. You brand n
 | Location | The physical location of tags. |
 | Portal| The administration website at admin.tagpurple.app for initial setup, ongoing configuration, monitoring and reporting on tag usage. |
 | Site     | The physical site of a collection of tags. But can be used to group tag locations in any way wish. |
@@ -9,5 +10,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTQwMzY0OSwtMTIzMzE2OTE4OF19
+eyJoaXN0b3J5IjpbLTQyOTIwMjkxOCwxNjM1NDAzNjQ5LC0xMj
+MzMTY5MTg4XX0=
 -->
