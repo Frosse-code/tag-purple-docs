@@ -5,9 +5,9 @@ Generally hold the back of the phone to the NFC tag so that it is 0-2cm from the
 ## Tip #2 Reathentication schedule
 You will need to re-authenticate your mobile number every 30 days. This is normal.
 
-## Tip 
+## Tip #3 How to persist your signin
 Your signin will only persist for 30 days for subsequent taps on the same device, using the same browser, in normal mode (ie not private/incognito mode).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1Njc0MDddfQ==
+eyJoaXN0b3J5IjpbLTI1MTcxMDYyN119
 -->
